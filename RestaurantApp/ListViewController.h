@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ListViewController.h
 //  RestaurantApp
 //
 //  Created by Robert Baghai on 5/12/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ListViewController : UIViewController
 
 @end
-
